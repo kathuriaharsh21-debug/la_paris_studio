@@ -1,0 +1,7 @@
+{
+  "name": "La Paris AI Studio",
+  "description": "A high-end production tool for La Paris Bakers to transform amateur product photos into professional editorial-grade marketing content using generative AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
